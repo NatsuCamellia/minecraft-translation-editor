@@ -1,4 +1,4 @@
-package com.github.natsucamellia.minecrafttranslationeditor
+package io.github.natsucamellia.mctranslator
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
